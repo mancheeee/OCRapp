@@ -69,6 +69,7 @@ It stands as a **functioning prototype** with some **incomplete walls** — espe
 
 > 🛠️ **Feel free to build on top of it and take it further.**
 
+Furthermore, the venv file is not included in the uploaded project file for ease in uploading, thus the dependencies are included in the requirements.txt.
 --------------------------------------------------------------------------------------------
 
 ## 🖥️ Requirements
